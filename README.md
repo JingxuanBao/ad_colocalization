@@ -2,7 +2,8 @@
 
 The GWAS summary statistics and supplementary materials are available at https://upenn.box.com/s/w76hbj2937dag58ugriuvyvnnb62eij3
 
-[Shenlab@Penn](https://github.com/PennShenLab)
+[ShenLab@Penn](https://www.med.upenn.edu/shenlab/)
+[LongLab@Penn](https://www.med.upenn.edu/long-lab/)
 
 # Abstract 
 
